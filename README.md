@@ -1,1 +1,1 @@
-# my-first-git
+This is for tutorial purpose.
